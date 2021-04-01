@@ -12,17 +12,22 @@ Hello my name is Fabricio Juliano, Enthusiast in Web Development, and lover of t
 ### 🛠 Conhecimentos / Knowledges
 
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https:
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https:
+[![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=white&link=https://www.linkedin.com/in/fabriciojuliano/)](https://www.linkedin.com/in/fabriciojuliano/)
+[![C](https://img.shields.io/badge/-C-red?style=flat-square&logo=C&logoColor=white&link=https://www.linkedin.com/in/fabriciojuliano/)](https://www.linkedin.com/in/fabriciojuliano/)
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https:
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https:
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https:
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https:
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https:
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https:
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https:
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https:
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://www.linkedin.com/in/fabriciojuliano/)](https://www.linkedin.com/in/fabriciojuliano/)
 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://www.linkedin.com/in/fabriciojuliano/)](https://www.linkedin.com/in/fabriciojuliano/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://www.linkedin.com/in/fabriciojuliano/)](https://www.linkedin.com/in/fabriciojuliano/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://www.linkedin.com/in/fabriciojuliano/)](https://www.linkedin.com/in/fabriciojuliano/)
+[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://www.linkedin.com/in/fabriciojuliano/)](https://www.linkedin.com/in/fabriciojuliano/)
+
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://www.linkedin.com/in/fabriciojuliano/)](https://www.linkedin.com/in/fabriciojuliano/)
+
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://www.linkedin.com/in/fabriciojuliano/)](https://www.linkedin.com/in/fabriciojuliano/)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://www.linkedin.com/in/fabriciojuliano/)](https://www.linkedin.com/in/fabriciojuliano/)
+
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://www.linkedin.com/in/fabriciojuliano/)](https://www.linkedin.com/in/fabriciojuliano/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://www.linkedin.com/in/fabriciojuliano/)](https://www.linkedin.com/in/fabriciojuliano/)
 ---
